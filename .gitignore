@@ -1,0 +1,17 @@
+*.session
+*.pgs
+*.pgs.tmp
+*.key
+key.txt
+config.json
+vault.meta
+vault.sentinel
+accounts.json
+sessions/
+exports/
+quarantine/
+audit.log
+last-restore-backup/
+tmp/
+__pycache__/
+.polygram/
