@@ -1,3 +1,14 @@
 #!/usr/bin/env sh
-# Polygram launcher: lets users type `PolyGram` after installation.
-exec python3 "$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)/polygram.py" "$@"
+# PolyGram launcher. Resolves the symlink created in ~/.local/bin so the
+# command works from any directory, including when started as `PolyGram`.
+set -eu
+
+SELF=$0
+if command -v readlink >/dev/null 2>&1; then
+  RESOLVED=$(readlink -f -- "$SELF" 2>/dev/null || printf '%s' "$SELF")
+else
+  RESOLVED=$SELF
+fi
+
+SCRIPT_DIR=$(CDPATH= cd -- "$(dirname -- "$RESOLVED")" && pwd)
+exec python3 "$SCRIPT_DIR/polygram.py" "$@"
