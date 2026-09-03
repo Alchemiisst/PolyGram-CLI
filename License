@@ -1,0 +1,127 @@
+ALCHEMIST NON-COMMERCIAL LICENSE
+(ANCL v1.1 — Project License)
+
+Copyright (c) 2026 Alchemist
+
+This license is intended for use across Alchemist projects.
+Each project should place its official repository link in its README and
+retain that link wherever the project is redistributed.
+
+======================================================================
+
+1. DEFINITIONS
+
+"Software" means this project and all of its source code, scripts,
+documentation, configuration, artwork, binaries, and associated assets.
+
+"Original Project" means the official repository identified in the
+project's README or, when stated, in this license notice.
+
+"You" means any person or entity receiving, using, copying, modifying,
+or distributing the Software.
+
+"Commercial Use" means use primarily intended for commercial advantage,
+monetary compensation, paid access, advertising revenue, paid support,
+or inclusion in a paid product or service.
+
+2. PERMISSIONS
+
+Subject to this license, You may freely use, copy, study, modify, merge,
+publish, and distribute the Software and derivative works for lawful,
+non-commercial purposes.
+
+3. CONDITIONS
+
+3.1 ATTRIBUTION
+
+You must retain this license, the copyright notice, and clear credit to
+"Alchemist" as the original author in every copy, substantial portion,
+derivative work, and redistribution of the Software.
+
+Credit must remain visible in the source distribution and, where the
+Software has a user interface, documentation, website, download page,
+release post, or video description, in a reasonably prominent location.
+
+3.2 LINK BACK
+
+Every public copy, fork, modification, or redistribution must include a
+visible link to the applicable Original Project repository. Do not remove
+or disguise the original repository link.
+
+For projects using this license without a project-specific replacement,
+use the Alchemist project index:
+
+https://github.com/Alchemiisst
+
+3.3 NO UNAUTHORIZED MONETIZATION
+
+You may not:
+
+  a) sell the Software or a derivative work;
+  b) require payment, donation, subscription, purchase, or registration
+     fees to obtain or use the Software;
+  c) place the Software behind a paywall, ad-gate, monetized shortener,
+     paid download pool, or equivalent access restriction;
+  d) add donation requests, payment links, crypto addresses, or
+     "support us" monetization prompts to the Software, installer, or
+     redistribution package; or
+  e) charge for hosting, bundling, installation, redistribution, or
+     support of the Software.
+
+The copyright holder may publish or monetize the Original Project and
+its official distribution channels.
+
+3.4 COMMERCIAL USE REQUIRES PERMISSION
+
+Commercial Use, including inclusion in a paid product, paid service,
+commercial operating-system build, commercial firmware, paid bundle,
+advertising-funded distribution, or revenue-generating service, requires
+prior written permission from Alchemist.
+
+Permission may be granted under separate terms and may include additional
+conditions.
+
+3.5 NO MISREPRESENTATION
+
+You may not claim that You are the original author, official maintainer,
+or copyright holder of the Software. Modified versions must be clearly
+identified as modified versions.
+
+4. SHARE-ALIKE
+
+Derivative works distributed publicly must be distributed under this
+same license, in its complete and unmodified form, unless Alchemist gives
+written permission for different terms.
+
+5. SECURITY AND RESPONSIBLE USE
+
+You are responsible for complying with applicable laws, service terms,
+privacy obligations, and third-party licenses. This license does not grant
+permission to bypass access controls, access accounts without permission,
+violate platform rules, or misuse personal data.
+
+6. TERMINATION
+
+Any violation of the conditions in Section 3 automatically terminates the
+rights granted by this license. Rights may be reinstated only by written
+permission from Alchemist.
+
+7. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT.
+
+8. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, ALCHEMIST, THE
+COPYRIGHT HOLDERS, AND CONTRIBUTORS SHALL NOT BE LIABLE FOR ANY CLAIM,
+DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR
+OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR
+THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+9. SEVERABILITY
+
+If any provision of this license is held invalid or unenforceable, that
+provision shall be limited or removed to the minimum extent necessary, and
+the remaining provisions shall remain in full effect.
