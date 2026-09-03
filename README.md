@@ -29,7 +29,7 @@
 - [What PolyGram does](#what-polygram-does)
 - [Security model](#security-model)
 - [Requirements](#requirements)
-- [Quick installation](#quick-installation)
+- [Quick installation](#quick-installation) 🌟🌟
 - [Start PolyGram](#start-polygram)
 - [First-run setup](#first-run-setup)
 - [Command reference](#command-reference)
