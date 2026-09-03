@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+# Polygram launcher: lets users type `PolyGram` after installation.
+exec python3 "$(CDPATH= cd -- "$(dirname -- "$0")" && pwd)/polygram.py" "$@"
